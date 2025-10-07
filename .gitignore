@@ -1,0 +1,39 @@
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# --- Environment & IDEs ---
+.env
+venv/
+env/
+.venv/
+.idea/
+.vscode/
+*.sqlite3
+
+# --- OS Files ---
+.DS_Store
+Thumbs.db
+
+# --- Logs & Caches ---
+*.log
+*.out
+*.pid
+*.gz
+*.zip
+*.tar
+*.tgz
+*.bak
+*.swp
+*.tmp
+.cache/
+.pytest_cache/
+
+
+# --- Database dumps ---
+*.sql
+*.db
