@@ -12,9 +12,9 @@ app.add_middleware(
 )
 
 redis = get_redis_connection(
-  host='redis-16543.c135.eu-central-1-1.ec2.cloud.redislabs.com',
+  host='redis-1654.eu-central-1.c.redislabs.com',
   port=16543,
-  password='VsnkDg2DjsVyUYT4GUPohB0nJ9NHljcK',
+  password='Vsnk0nJ9NHljc',
   decode_responses=True
 )
 
